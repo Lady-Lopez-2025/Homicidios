@@ -2,6 +2,7 @@
 
 Diseño del almancen de datos con las dimensiones y la tabla de hechos necesarios para realizar las conexiones de los datos y realizar un análisis con esquema copo de nieve.
 
-<img src="[https://raw.githubusercontent.com/tuusuario/turepositorio/main/images/miimagen.png](https://github.com/Lady-Lopez-2025/Homicidios/blob/d43aad26ef975ea14b72bfb0f04d77f470cd201c/DataWareHouse/Diagrama_hom.png)" alt="Modelo ER" width="600">
-
+<p align="center">
+  <img src="https://github.com/Lady-Lopez-2025/Homicidios/blob/4a606bafb56de62745adcc80de4d3857ffb533ac/DataWareHouse/Diagrama_hom.png?raw=true" alt="Modelo del Data Warehouse" width="700">
+</p>
 
